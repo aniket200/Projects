@@ -1,4 +1,4 @@
-============================================================================Keylogger Project==========================================================================
+======================================================================Keylogger Project==========================================================================
 Description:
 
 This project is a Python-based Keylogger that tracks and logs keyboard activity. It is designed for educational purposes and aims to showcase how to capture user input and track events like keypresses, Ctrl+C (copy), and Ctrl+V (paste) actions. This project uses the pynput library to listen for keyboard events and pyperclip to capture clipboard data.
@@ -25,11 +25,11 @@ Install the necessary libraries with the following commands:
 Steps to Set Up:
 Clone the Repository:
 
-Clone the project to your local machine by running the following command in your terminal:-
-git clone https://github.com/your-username/keylogger-project.git
-cd keylogger-project
-pip install pynput pyperclip
-python keylogger.py
+1.Clone the project to your local machine by running the following command in your terminal:-
+2.git clone https://github.com/your-username/keylogger-project.git
+3.cd keylogger-project
+4.pip install pynput pyperclip
+5.python keylogger.py
 
 How It Works:
 
